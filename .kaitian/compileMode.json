@@ -1,0 +1,8 @@
+{
+  "modes": [
+    {
+      "title": "列表页",
+      "page": "pages/list/list"
+    }
+  ]
+}

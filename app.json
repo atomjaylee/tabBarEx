@@ -1,0 +1,6 @@
+{
+  "pages": [
+    "client/pages/list/list",
+    "client/pages/detail/detail"
+  ]
+}

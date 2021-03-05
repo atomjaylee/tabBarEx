@@ -1,0 +1,4 @@
+<view>
+  我是列表页，点击下面item，进入详情页
+  <view a:for="{{ list }}" key="{{ item }}" onTap="linkDetailPageHandler"> {{ item }} </view>
+</view>

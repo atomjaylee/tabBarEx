@@ -1,0 +1,24 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/list/list",
+    "pages/detail/detail"
+  ],
+  "window": {
+    "defaultTitle": "My App"
+  },
+  "tabBarEx": {
+    "items": [
+      { 
+        "id": "index" ,
+        "name": "首页",
+        "pagePath": "pages/index/index"
+      },
+      {
+        "id": "list",
+        "name": "列表页",
+        "pagePath": "pages/list/list"
+      }
+    ]
+  }
+}
